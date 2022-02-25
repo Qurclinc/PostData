@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url('../img/back.jpg');
+    background-repeat: no-repeat;
+}
+
+.main{
+    width: 880px;
+    margin: 0 auto;
+}
+
+p{
+    color: #fff;
+    font-size: 52px;
+}
+
+header{
+    position: relative;
+    top:50px;
+    left:75px;
+    height:200px;
+}
+
+button{
+    width: 325px;
+    height: 50px;
+    margin-top: 50px;
+    margin-left: 275px;
+}
+
+footer{
+    margin-top: 200px;
+    margin-left: 700px;
+}
+
+p {
+    margin-left: 50%;
+}
+
+.from_top{
+    margin-top: 15%;
+    margin-left: 56%;
+}
+
+.ADD{
+    margin-left: 51%;
+}
+
+.love{
+    margin-left: 52%;
+}
+
+.Diana{
+    margin-left: 55%;
+}
+
+.heart{
+    margin-left: 55%;
+}
