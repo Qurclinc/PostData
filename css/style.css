@@ -4,7 +4,8 @@
 }
 
 body{
-    background-color: #000;
+    background: url('../img/back.jpg');
+    background-repeat: no-repeat;
 }
 
 .main{
@@ -13,8 +14,8 @@ body{
 }
 
 p{
-    color: #00ae1f;
-    font-size: 22px;
+    color: #fff;
+    font-size: 52px;
 }
 
 header{
@@ -34,4 +35,29 @@ button{
 footer{
     margin-top: 200px;
     margin-left: 700px;
+}
+
+p {
+    margin-left: 50%;
+}
+
+.from_top{
+    margin-top: 15%;
+    margin-left: 56%;
+}
+
+.ADD{
+    margin-left: 51%;
+}
+
+.love{
+    margin-left: 52%;
+}
+
+.Diana{
+    margin-left: 55%;
+}
+
+.heart{
+    margin-left: 55%;
 }
