@@ -4,8 +4,8 @@
 }
 
 body{
-    background: url('../img/back.jpg');
-    background-repeat: no-repeat;
+    background: url('../img/D.jpg');
+    background-repeat: repeat;
 }
 
 .main{
@@ -42,8 +42,8 @@ p {
 }
 
 .from_top{
-    margin-top: 150px;
-    margin-left: 50%;
+    margin-top: 15%;
+    margin-left: 56%;
 }
 
 .ADD{
