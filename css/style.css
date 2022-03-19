@@ -61,3 +61,29 @@ p {
 .heart{
     margin-left: 55%;
 }
+
+.bait{
+    margin: 150px auto;
+}
+
+.address p{
+    color: red;
+    position: absolute;
+    top:305px;
+    left: -225px;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+    text-decoration: none;
+}
+
+a:active{
+    color: red;
+    text-decoration: none;
+}
